@@ -1,0 +1,37 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(120deg, #ffd6e8, #dbeafe);
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+#grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button {
+  background: white;
+  border: none;
+  border-radius: 15px;
+  padding: 14px;
+  margin: 6px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #ffe4f0;
+}
+
+.card {
+  background: white;
+  width: 320px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 25px;
+}

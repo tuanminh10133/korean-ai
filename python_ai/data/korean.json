@@ -1,0 +1,27 @@
+{
+  "ㄱ": {"roman":"g/k","sentence":"가방이 있어요"},
+  "ㄴ": {"roman":"n","sentence":"나무가 커요"},
+  "ㄷ": {"roman":"d/t","sentence":"달이 밝아요"},
+  "ㄹ": {"roman":"r/l","sentence":"라면을 먹어요"},
+  "ㅁ": {"roman":"m","sentence":"물을 마셔요"},
+  "ㅂ": {"roman":"b/p","sentence":"밥을 먹어요"},
+  "ㅅ": {"roman":"s","sentence":"사과가 있어요"},
+  "ㅇ": {"roman":"ng","sentence":"우유를 마셔요"},
+  "ㅈ": {"roman":"j","sentence":"집에 가요"},
+  "ㅊ": {"roman":"ch","sentence":"차를 마셔요"},
+  "ㅋ": {"roman":"k","sentence":"코가 아파요"},
+  "ㅌ": {"roman":"t","sentence":"토끼가 귀여워요"},
+  "ㅍ": {"roman":"p","sentence":"파가 있어요"},
+  "ㅎ": {"roman":"h","sentence":"하늘이 파래요"},
+
+  "ㅏ": {"roman":"a","sentence":"아이가 웃어요"},
+  "ㅑ": {"roman":"ya","sentence":"야구를 해요"},
+  "ㅓ": {"roman":"eo","sentence":"엄마가 와요"},
+  "ㅕ": {"roman":"yeo","sentence":"여기에 있어요"},
+  "ㅗ": {"roman":"o","sentence":"오늘은 좋아요"},
+  "ㅛ": {"roman":"yo","sentence":"요리를 해요"},
+  "ㅜ": {"roman":"u","sentence":"우산이 있어요"},
+  "ㅠ": {"roman":"yu","sentence":"유리가 깨져요"},
+  "ㅡ": {"roman":"eu","sentence":"음악을 들어요"},
+  "ㅣ": {"roman":"i","sentence":"이가 아파요"}
+}
