@@ -1,15 +1,15 @@
-from flask import Flask, render_template
-import json
+from flask import Flask
 
 app = Flask(__name__)
 
-with open("data/korean.json", encoding="utf-8") as f:
-    KOREAN = json.load(f)
-
 @app.route("/")
 def home():
-    return render_template("index.html", data=KOREAN)
+    return "✅ App is running!"
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=10000)
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
+
+
 
